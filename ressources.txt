@@ -1,1 +1,4 @@
 https://openweathermap.org/
+Installer un module :
+  Aller dans C:\Users\Gonzo\AppData\Local\Programs\Python\Python37
+  Et par exemple ==> python -m pip install requests
